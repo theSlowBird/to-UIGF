@@ -6,3 +6,9 @@
 ## 使用方法
 1. 修改`hparams.py`中的参数
 2. 运行`to-UIGF.py`
+
+## 提及程序
+https://github.com/HexaMPA/UIGF-Excel2JSON
+https://feixiaoqiu.com/
+https://github.com/biuuu/genshin-wish-export
+https://github.com/lgou2w/HoYo.Gacha
