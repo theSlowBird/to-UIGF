@@ -9,6 +9,7 @@
 
 ## 提及程序
 https://github.com/HexaMPA/UIGF-Excel2JSON
+https://uigf.org/zh/standards/uigf.html
 https://feixiaoqiu.com/
 https://github.com/biuuu/genshin-wish-export
 https://github.com/lgou2w/HoYo.Gacha
